@@ -1,0 +1,31 @@
+.btn {
+
+background-color:red;
+
+color: #fff;
+
+border: 1px solid #eee;
+
+border-radius: 40px;
+
+box-shadow: 5px 5px 5px #eee;
+
+text-shadow:none;
+
+}
+
+.btn:hover {
+
+background: green;
+
+color: #fff;
+
+border: 1px solid #eee;
+
+border-radius: 40px;
+
+box-shadow: 5px 5px 5px #eee;
+
+text-shadow:none;
+
+}
